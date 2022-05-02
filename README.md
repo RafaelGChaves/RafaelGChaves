@@ -1,7 +1,7 @@
 ## Bem vindo(a) ao meu perfil!
 
-📖 Estudante de desenvolvimento de sistemas
-📚 Atualmente estudando Java e Angular
+📖 Estudante de desenvolvimento de sistemas <br>
+📚 Atualmente estudando Java e Angular <br>
 🏫 DEVinHouse | ACATE e SENAI/SC 
 
 <div align="center">
