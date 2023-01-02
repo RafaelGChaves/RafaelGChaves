@@ -1,8 +1,8 @@
 ## Bem vindo(a) ao meu perfil!
 
-📖 Estudante de desenvolvimento de sistemas <br>
+📖 Desenvolvedor de sistemas <br>
 📚 Atualmente estudando Java e Angular <br>
-🏫 DEVinHouse | ACATE e SENAI/SC 
+🏫 Formado pelo DEVinHouse | ACATE e SENAI/SC 
 
 <div align="center">
   <a href="https://github.com/RafaelGChaves">
